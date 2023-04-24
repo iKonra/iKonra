@@ -9,7 +9,7 @@ Check out my personal website at https://ikonra.github.io
 
 ## My Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=[your username]&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iKonra&show_icons=true&theme=dark)
 
 Here are my stats on GitHub, including my number of contributions, the technologies I use, and my level of activity.
 
