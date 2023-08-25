@@ -15,6 +15,6 @@ Here are my stats on GitHub, including my number of contributions, the technolog
 
 ## My Discord
 
-You can also reach me on Discord at **Konra#0001**. Feel free to connect with me and chat about programming or anything else that interests you.
+You can also reach me on Discord at **.Konra**. Feel free to connect with me and chat about programming or anything else that interests you.
 
 Thanks for visiting my GitHub profile! Let's learn and grow together in the world of programming.
