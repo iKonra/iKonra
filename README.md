@@ -11,10 +11,9 @@ Check out my personal website at https://ikonra.github.io
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iKonra&show_icons=true&theme=dark)
 
-Here are my stats on GitHub, including my number of contributions, the technologies I use, and my level of activity.
 
 ## My Discord
 
-You can also reach me on Discord at **.Konra**. Feel free to connect with me and chat about programming or anything else that interests you.
+You can also reach me on Discord at **.Konra**. Feel free to connect with me.
 
 Thanks for visiting my GitHub profile! Let's learn and grow together in the world of programming.
