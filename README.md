@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Konra, a junior programmer who is passionate about everything I do in the world of programming. 
+I'm Konra, a trainee programmer who is passionate about everything I do in the world of programming. 
 
 ## My Website
 
