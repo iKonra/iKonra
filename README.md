@@ -8,4 +8,10 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikonra&show_icons=true&bg_color=000000&hide_border=true&locale=en" alt="ikonra" /></p>
-![20840c86801935 5da4f4b25cf20](https://github.com/user-attachments/assets/f4ae61b3-0c3e-4556-bbb3-47c8caece637)
+
+
+
+
+![image_processing20200113-8746-1cdlsbq](https://github.com/user-attachments/assets/a66db47f-de7b-4750-b471-36dbd0c6b16f) ![image_processing20200108-12984-1lglggp](https://github.com/user-attachments/assets/3ce2b4c8-3b2a-4ff0-b1fb-73ab9d941bb8)
+
+
