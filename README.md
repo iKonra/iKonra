@@ -11,7 +11,6 @@
 
 
 
-
-![image_processing20200113-8746-1cdlsbq](https://github.com/user-attachments/assets/a66db47f-de7b-4750-b471-36dbd0c6b16f) ![image_processing20200108-12984-1lglggp](https://github.com/user-attachments/assets/3ce2b4c8-3b2a-4ff0-b1fb-73ab9d941bb8)
+ ![image_processing20200108-12984-1lglggp](https://github.com/user-attachments/assets/3ce2b4c8-3b2a-4ff0-b1fb-73ab9d941bb8)
 
 
