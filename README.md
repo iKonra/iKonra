@@ -9,8 +9,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikonra&show_icons=true&bg_color=000000&hide_border=true&locale=en" alt="ikonra" /></p>
 
-
-
  ![image_processing20200108-12984-1lglggp](https://github.com/user-attachments/assets/3ce2b4c8-3b2a-4ff0-b1fb-73ab9d941bb8)
+
+ About me: Hice 2 proyectos en python ya lo puedo agregar en aptutides 🤔? Actualmente explorando el mundo de C# y .NET
 
 
