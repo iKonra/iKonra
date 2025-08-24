@@ -11,6 +11,6 @@
 
  ![image_processing20200108-12984-1lglggp](https://github.com/user-attachments/assets/3ce2b4c8-3b2a-4ff0-b1fb-73ab9d941bb8)
 
- About me: Hice 2 proyectos en python ya lo puedo agregar en aptitudes 🤔? Actualmente explorando el mundo de C# y .NET
+ About me: Cursando Algoritmo y estructura de datos, ingenieria de software 2 y calculo
 
 
