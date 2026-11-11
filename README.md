@@ -2,11 +2,10 @@
 
 # Hi, I'm Conrado 👋
 
-**Full-Stack Developer · Co-Founder of [Tricapi](https://tricapi.com) · Computer Engineering student at UNL**
+**Full-Stack Developer · Co-Founder of [Tricapi](https://tricapi.com) · Computer Engineering student**
 
-📍 Santa Fe, Argentina · 🌎 Open to remote work
+📍 Argentina · 🌎 Open to remote work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conrado_De_Napoli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conrado-de-napoli-8627442a0/)
 [![Email](https://img.shields.io/badge/Email-denapoliconra@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:denapoliconra@gmail.com)
 [![Tricapi](https://img.shields.io/badge/Live_product-tricapi.com-0B1220?style=flat&logo=whatsapp&logoColor=25D366)](https://tricapi.com)
 
@@ -58,7 +57,7 @@ My first steps in programming: Discord bots in JavaScript/Node.js for communitie
 
 ## Currently
 
-- 🎓 Studying Computer Engineering at Universidad Nacional del Litoral
+- 🎓 Studying Computer Engineering
 - 📈 Growing Tricapi and Inti
 - 🔎 Open to remote Software Engineer roles
 
