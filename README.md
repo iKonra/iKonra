@@ -26,14 +26,7 @@ I care about the *why* behind every technical decision: what the user needs, wha
 
 Businesses that sell through WhatsApp ads don't know which ad brought each sale, so Meta optimizes blindly. Tricapi links every conversation to the campaign and ad that generated it and sends real sales back to Meta.
 
-- **70 paying customers**, up to **30 active at the same time**
-- **130 WhatsApp lines** handled concurrently
-- Automatic **multi-line failover**: if a line goes down, messages and ads are rerouted to a healthy one
-- Automatic reading of payment receipts to record each sale's amount
-- Integrations: **Meta Conversions API**, **Kommo CRM**, **Mercado Pago**, USDT payments
-- One agency client cut its **cost per lead by 35% in 30 days**
-
-`React` `Python` `Supabase` `PostgreSQL` `VPS (Contabo)`
+`React` `Python` `Supabase` `PostgreSQL` `VPS`
 
 ### 🛠️ Inti — Custom software studio
 *Co-Founder & Developer · Oct 2026 – Present*
