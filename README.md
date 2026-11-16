@@ -2,7 +2,7 @@
 
 # Hi, I'm Conrado 👋
 
-**Full-Stack Developer · Co-Founder of [Tricapi](https://tricapi.com) · Computer Engineering student**
+**Full-Stack Developer · Computer Engineering student**
 
 📍 Argentina · 🌎 Open to remote work
 
@@ -20,8 +20,8 @@ I care about the *why* behind every technical decision: what the user needs, wha
 
 ## What I've built
 
-### 🚀 [Tricapi](https://tricapi.com) — WhatsApp sales attribution for Meta Ads
-*Co-Founder & Full-Stack Developer · Jul 2026 – Present*
+### 🚀 [Tricapi] — WhatsApp sales attribution for Meta Ads
+*Full-Stack Developer · Jul 2026 – Present*
 
 Businesses that sell through WhatsApp ads don't know which ad brought each sale, so Meta optimizes blindly. Tricapi links every conversation to the campaign and ad that generated it and sends real sales back to Meta.
 
